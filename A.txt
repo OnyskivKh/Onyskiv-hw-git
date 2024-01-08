@@ -1,5 +1,0 @@
-Test file
-Line from feature branch
-Some additional changes from remote
-Test file
-Test file
